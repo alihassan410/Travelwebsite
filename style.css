@@ -1,0 +1,110 @@
+body{
+    background-color: #00111C;
+}
+#mainimg{
+    height: 640px;
+    width: 100%;
+}
+#nav{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    background-color: transparent;
+    font-weight:500;
+    font-size: 20px;
+    text-align: center;
+    outline: none;
+}
+#nav-item{
+    border-bottom: 2px solid transparent;
+    border: transparent;
+    text-align: center;
+    color: black;
+    background: transparent;
+    width: 80px;
+}
+#nav-item::placeholder{
+    color: black;
+    font-weight:500;
+    font-size: 20px;
+}
+#nav-item:hover{
+    border-radius: 0px;
+    border-bottom: 2px solid black;
+}
+#hr1{
+    position: absolute;
+}
+#searchicon{
+    height: 18px;
+}
+#title{
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+}
+#titleh1{
+    font-family: 'PT Serif', serif;
+    font-size:60px;
+}
+#titleh6{
+    font-size:20px;
+}
+#img-col1{
+    border-radius: 5px;
+    height: 300px;
+}
+#imgcol2{
+    border-radius: 5px;
+    height: 300px;
+}
+#morecards{
+    width: 100%;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+}
+#seemoreb{
+    background: transparent;
+    border: none;
+    color: skyblue;
+    text-decoration: underline;
+}
+#jornalimg{
+    border-radius: 5px;
+    height: 350px;
+}
+#imgfooter{
+    height: 80%;
+    width: 100%;
+    opacity: 0.8;
+}
+#header{
+    font-style: underline;
+    font-family: 'PT Serif', serif;
+}
+#img1{
+    clip-path: circle(63.4% at 63% 49%);
+}
+#img2{
+    clip-path: circle(81.4% at 19% 49%);
+}
+#cardsdis{
+    background-color: #001523;
+}
+#lets{
+    width: 10rem;
+    font-weight: 600;
+}
+#sendb{
+    width: 8rem;
+}
+#footerbg{
+    background: #023047;
+}
+#footerimg{
+    width: 100%;
+}
+#getstarted{
+}
